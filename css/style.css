@@ -1,0 +1,22 @@
+:root {
+    --bg-nav-bar-footer-bot:#2c3e50;
+    --bg-start-bs:#1abc9c;
+    --bg-footer-top:#3a546d;
+    --txt-w:#fff;
+}
+
+.bg-nav-bar {
+    background-color: var(--bg-nav-bar-footer-bot);
+}
+
+.bg-start-bs {
+   background-color: var(--bg-start-bs);
+}
+
+.txt-w {
+    color: var(--txt-w);
+}
+
+
+
+
