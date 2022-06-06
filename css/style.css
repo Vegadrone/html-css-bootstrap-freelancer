@@ -44,6 +44,7 @@
 .star_separ {
     width: 100%;
     margin: 10px 0;
+    font-size: 30px;
 }
 
 .star_separ::after,
@@ -54,6 +55,7 @@
     width: 20%;
     display: inline-block;
     vertical-align: middle;
+    margin:10px;
 }
 
 #portfolio .star_separ::after,
